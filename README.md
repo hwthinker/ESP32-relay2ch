@@ -8,7 +8,8 @@
    - TX -> RX USB Serial (Kabel Putih)
    - RX -> TX USB Serial (Kabel Hijau)
    - GND -> GND USB Serial (Kabel Hitam)
-- Pastikan supply AC220V  dihubungkan 2 pin Terminal block(terdapat label AC 90-250V)
+- Pastikan supply DC 9-12V  dihubungkan 2 pin Terminal block(terdapat label VCC)
+- Pastikan GND supply dihubungkan dengan GND 
 - Tekan dan tahan tombol IO0 
 - klik (tekan dan lepas) tombol EN dan pastikan  tombol IO0 masih di tekan
 - Lepas tombol IO0
@@ -25,8 +26,7 @@
     - GND -> GND USB Serial  
     - IO0 -> IO# USB Serial 
     - EN -> EN# USB Serial
-- Pastikan supply AC220V  dihubungkan 2 pin Terminal block(terdapat label AC 90-250V)
+- Pastikan supply DC 9-12V  dihubungkan 2 pin Terminal block(terdapat label VCC)
+- Pastikan GND supply dihubungkan dengan GND 
 - Download program dan tunggu sampai selesai
 
-⚠️ Note:
-Hati-hati dalam bekerja karena adanya tegangan tinggi
